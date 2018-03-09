@@ -1,0 +1,69 @@
+#background {
+    background-color: rebeccapurple;
+    height: 800px;
+    width: auto; 
+}
+
+#mahal {
+    width: 90vw;
+    position: absolute;
+    top: 130px;
+    left: 60px;
+}
+
+#title {
+    width: 50%;
+    margin-left: 25%;
+    position: relative;
+    
+}
+
+#lanterns {
+    position: relative;
+    top: -134px;
+    left: 0px;
+}
+
+#factbox {
+        position: relative;
+        width: 50vw;
+        height: 40vh;
+    background-image: url(svgs/Asset%2011.svg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-bottom: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        bottom: 550px;
+        z-index: 1;
+    }
+
+#stars {
+    position: relative;
+    top: -350px;
+}
+
+.diyaI {
+    width: 70px;
+    height: auto;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+#buttons {
+    position: relative;
+    top: -475px;
+    text-align: center;
+    
+}
+
+#button1 ,#button3, #button5, #button7, #button9 {
+    position: relative;
+    bottom: 200px;
+}
+
+#button2, #button4, #button6, #button8, #button10 {
+    position: relative;
+    bottom: 100px;
+}
